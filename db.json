@@ -1,0 +1,54 @@
+{
+  "identity": [
+    {
+      "name": "shashank kumar",
+      "age": "22",
+      "address": "back of lic office",
+      "Department": "Hr",
+      "salary": "35000",
+      "maritial_status": "single",
+      "files": "C:\\fakepath\\project6.png",
+      "id": 1
+    },
+    {
+      "name": "shash",
+      "age": "4",
+      "address": "dfd",
+      "Department": "It",
+      "salary": "444",
+      "maritial_status": "married",
+      "files": "C:\\fakepath\\pic1project.png",
+      "id": 2
+    },
+    {
+      "name": "shash",
+      "age": "4",
+      "address": "dfd",
+      "Department": "It",
+      "salary": "444666",
+      "maritial_status": "married",
+      "files": "C:\\fakepath\\pic1project.png",
+      "id": 3
+    },
+    {
+      "name": "",
+      "age": "",
+      "address": "",
+      "Department": "",
+      "salary": "66",
+      "maritial_status": "",
+      "files": "",
+      "id": 4
+    },
+    {
+      "name": "",
+      "age": "",
+      "address": "",
+      "Department": "",
+      "salary": "8",
+      "maritial_status": "",
+      "files": "",
+      "id": 5
+    }
+  ]
+}
